@@ -9,3 +9,5 @@ Shouter drill
 https://repl.it/@richarddinh1/shouter-drill
 
 Text normalizer drill 
+<br>
+https://repl.it/@richarddinh1/text-normalizer-drill
